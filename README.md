@@ -1,6 +1,6 @@
 Fullstack Javascript developer that works with web applications as well as Discord bots in his spare time.
 
-Additionally works on open-source for [TheTypingMatch](https://github.com/TheTypingMatch) and web dev for [The Walls Project](https://thewallsproject.org/).
+Additionally works on open-source for [TheTypingMatch](https://github.com/TheTypingMatch) and web dev for [The Walls Project](https://github.com/TheTypingMatch/).
 
 ### Solution Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
