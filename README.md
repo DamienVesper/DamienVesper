@@ -12,3 +12,10 @@ Additionally works on open-source for [TheTypingMatch](https://github.com/TheTyp
 
 ### Socials
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
+
+### Stats
+![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&count_private=true&theme=tokyonight)
+
+### Languages
+![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&layout=compact&theme=tokyonight)
+ 
