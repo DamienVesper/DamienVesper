@@ -14,7 +14,7 @@ Additionally works on open-source for [TheTypingMatch](https://github.com/TheTyp
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
 
 ### Stats
-![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
+![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
 ### Languages
 ![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight)
