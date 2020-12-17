@@ -17,5 +17,5 @@ Additionally works on open-source for [TheTypingMatch](https://github.com/TheTyp
 ![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
 
 ### Languages
-![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&layout=compact&theme=tokyonight)
+![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight)
  
