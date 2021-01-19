@@ -15,7 +15,8 @@ I also have developed [LeCashBot](https://lecashbot.cf), which allows users to g
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://www.nodejs.org/)
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/)
-[![](https://img.shields.io/badge/Python-%23ffd343?style=for-the-badge&logo=python&logoColor=black)](https://www.w3schools.com/)
+[![](https://img.shields.io/badge/Python-%23ffd343?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
+[![](https://img.shields.io/badge/MongoDB-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### Socials
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
