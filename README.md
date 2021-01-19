@@ -8,7 +8,7 @@ I have been a backend developer for [Krew.io](https://krew.io) and the sole main
 Additionally, I worked as an open-source developer for [TheTypingMatch](https://github.com/TheTypingMatch) accessories, namely Discord bots, while developing [The Walls Project](https://thewallsproject.org), a community project, on the side.
 
 I am a system administrator of [Alliance Reunited](https://alru.ga), a gaming community, since early 2018.
-I also developed [LeCashBot](https://lecashbot.cf), which allows users to gain [Nitro Type](https://nitrotype.com) cash from chatting in Discord servers, starting December 2019.
+I also have developed [LeCashBot](https://lecashbot.cf), which allows users to gain [Nitro Type](https://nitrotype.com) cash from chatting in Discord servers, since December 2019.
 
 ### Solution Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
