@@ -5,7 +5,7 @@ I originally started as a web developer focusing on responsive web design late 2
 Additionally, I am an enthusiastic [typist](https://nitrotype.com/racer/DamienVesper), tech nerd, and [chess geek](https://lichess.org/@/DamienVesper).
 
 I have been a backend developer for [Krew.io](https://krew.io) and the sole maintainer of [Krewclassic.io](https://krewclassic.io) since September 2020.
-Additionally, I worked as an open-source developer for [TheTypingMatch](https://github.com/TheTypingMatch) accessories, namely Discord bots, while developing [The Walls Project](https://thewallsproject.org), a community project, on the side.
+Additionally, I work as an open-source developer for [TheTypingMatch](https://github.com/TheTypingMatch) accessories, namely Discord bots, as well as it's main site, [thetypingmatch.com](https://thetypingmatch.com) (January 2021), while developing [The Walls Project](https://thewallsproject.org), a community project, on the side (January 2019).
 
 I am a system administrator of [Alliance Reunited](https://alru.ga), a gaming community, since early 2018.
 I also have developed [LeCashBot](https://lecashbot.cf), which allows users to gain [Nitro Type](https://nitrotype.com) cash from chatting in Discord servers, since December 2019.
