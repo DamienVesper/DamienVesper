@@ -7,8 +7,12 @@ Additionally, I am an enthusiastic [typist](https://nitrotype.com/racer/DamienVe
 I have been a backend developer for [Krew.io](https://krew.io) and the sole maintainer of [Krewclassic.io](https://krewclassic.io) since September 2020.
 Additionally, I work as an open-source developer for [TheTypingMatch](https://github.com/TheTypingMatch) accessories, namely Discord bots, as well as it's main site, [thetypingmatch.com](https://thetypingmatch.com) (January 2021), while developing [The Walls Project](https://thewallsproject.org), a community project, on the side (January 2019).
 
+Fullstack developer and lead of development at [Throwdown.TV](https://throwdown.tv), a streaming service that is set to launch soon, since January 24th, 2021.
+
 I am a system administrator of [Alliance Reunited](https://alru.ga), a gaming community, since early 2018.
 I also have developed [LeCashBot](https://lecashbot.cf), which allows users to gain [Nitro Type](https://nitrotype.com) cash from chatting in Discord servers, since December 2019.
+
+Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://krew.io).
 
 ### Solution Stack
 [![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
