@@ -21,6 +21,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org)
+[![](https://img.shields.io/badge/swift-%23FA9200?style=for-the-badge&logo=swift&logoColor=white)](https://developer.apple.com/swift)
 [![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
 
 #### Frameworks
