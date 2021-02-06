@@ -20,8 +20,8 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com)
 [![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
-[![](https://img.shields.io/badge/Python-%23FFD343?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org)
-[![](https://img.shields.io/badge/C%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
+[![](https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org)
+[![](https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
 
 #### Frameworks
 [![](https://img.shields.io/badge/git%20-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
@@ -41,6 +41,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
 [![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://reactjs.org)
+[![](https://img.shields.io/badge/%20net-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white)](https://dotnet.microsoft.com)
 
 ### Socials
 [![](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
