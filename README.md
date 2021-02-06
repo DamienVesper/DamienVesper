@@ -24,6 +24,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/C%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
 
 #### Frameworks
+[![](https://img.shields.io/badge/git%20-%23000000.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com)
 [![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://www.nodejs.org)
 [![](https://img.shields.io/badge/grunt%20-%23E78625.svg?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com)
 [![](https://img.shields.io/badge/eslint%20-%2341229C.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
@@ -42,8 +43,11 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://reactjs.org)
 
 ### Socials
-[![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
-[![](https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.alru.ga)
+[![](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
+[![](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.alru.ga)
+[![](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DamienVesper)
+
+
 ### Stats
 ![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
