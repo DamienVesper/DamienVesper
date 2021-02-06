@@ -36,6 +36,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/express%20-%23EDE7E6.svg?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com)
 [![](https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.org)
+[![](https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![](https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
 [![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://reactjs.org)
