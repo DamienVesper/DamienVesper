@@ -46,6 +46,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 ### Socials
 [![](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
 [![](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.alru.ga)
+[![](https://img.shields.io/badge/Twitch-%236441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/LordDamienVesper)
 [![](https://img.shields.io/badge/Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DamienVesper)
 
 
