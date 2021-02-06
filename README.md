@@ -7,28 +7,44 @@ Additionally, I am an enthusiastic [typist](https://nitrotype.com/racer/DamienVe
 I have been a backend developer for [Krew.io](https://krew.io) and the sole maintainer of [Krewclassic.io](https://krewclassic.io) since September 2020.
 Additionally, I work as an open-source developer for [TheTypingMatch](https://github.com/TheTypingMatch) accessories, namely Discord bots, as well as it's main site, [thetypingmatch.com](https://thetypingmatch.com) (January 2021), while developing [The Walls Project](https://thewallsproject.org), a community project, on the side (January 2019).
 
-Fullstack developer and lead of development at [Throwdown.TV](https://throwdown.tv), a streaming service that is set to launch soon, since January 24th, 2021.
+Lead of development at [Throwdown.TV](https://throwdown.tv), a streaming service that is set to launch soon, as of January 24th, 2021.
+System administrator of [Alliance Reunited](https://alru.ga), a community focused on gaming, since early 2018.
 
-I am a system administrator of [Alliance Reunited](https://alru.ga), a gaming community, since early 2018.
 I also have developed [LeCashBot](https://lecashbot.cf), which allows users to gain [Nitro Type](https://nitrotype.com) cash from chatting in Discord servers, since December 2019.
-
 Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://krew.io).
 
 ### Solution Stack
-[![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://www.nodejs.org/)
-[![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/)
-[![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/)
-[![](https://img.shields.io/badge/Python-%23ffd343?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org/)
-[![](https://img.shields.io/badge/MongoDB-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+
+#### Languages
+[![](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript)](https://www.javascript.com)
+[![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com)
+[![](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com)
+[![](https://img.shields.io/badge/Python-%23FFD343?style=for-the-badge&logo=python&logoColor=black)](https://www.python.org)
+[![](https://img.shields.io/badge/C%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com)
+
+#### Frameworks
+[![](https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://www.nodejs.org)
+[![](https://img.shields.io/badge/grunt%20-%23E78625.svg?style=for-the-badge&logo=grunt&logoColor=white)](https://gruntjs.com)
+[![](https://img.shields.io/badge/eslint%20-%2341229C.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org)
+[![](https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
+[![](https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
+
+
+#### Libraries
+[![](https://img.shields.io/badge/socket.io%20-%23000000.svg?style=for-the-badge&logo=socket.io)](https://socket.io)
+[![](https://img.shields.io/badge/express%20-%23EDE7E6.svg?style=for-the-badge&logo=express&logoColor=black)](https://expressjs.com)
+[![](https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![](https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.org)
+[![](https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
+[![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://reactjs.org)
 
 ### Socials
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
 [![](https://img.shields.io/badge/Discord-%237289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.alru.ga)
-
 ### Stats
 ![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
 
-### Languages
+### Language Fluency
 ![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight)
