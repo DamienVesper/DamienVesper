@@ -32,6 +32,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
 [![](https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
+[![](https://img.shields.io/badge/%20net-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white)](https://dotnet.microsoft.com)
 
 #### Libraries
 [![](https://img.shields.io/badge/socket.io%20-%23000000.svg?style=for-the-badge&logo=socket.io)](https://socket.io)
@@ -41,7 +42,6 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![](https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge)](https://discord.js.org)
 [![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://reactjs.org)
-[![](https://img.shields.io/badge/%20net-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white)](https://dotnet.microsoft.com)
 
 ### Socials
 [![](https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
