@@ -32,7 +32,7 @@ Currently working on [Throwdown.TV](https://throwdown.tv) and [Krew.io](https://
 [![](https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org)
 [![](https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 [![](https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
-[![](https://img.shields.io/badge/%20net-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white)](https://dotnet.microsoft.com)
+[![](https://img.shields.io/badge/%2Enet-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white)](https://dotnet.microsoft.com)
 
 #### Libraries
 [![](https://img.shields.io/badge/socket.io%20-%23000000.svg?style=for-the-badge&logo=socket.io)](https://socket.io)
