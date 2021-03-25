@@ -6,7 +6,6 @@ Additionally, I am an enthusiastic [typist](https://nitrotype.com/racer/DamienVe
 
 ## Projects
 Over the past few years, I have developed several projects, including:
- * [Krew.io](https://krew.io) - September 2020 - February 2021
  * [Throwdown.TV](https://throwdown.tv) - January 2021 - Present
  * [LeCashBot](https://lecashbot.cf) - December 2019 - Present
  * [TheWallsProject](https://thewallsproject.org) - Janaury 2019 - December 2020
