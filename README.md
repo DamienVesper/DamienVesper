@@ -43,7 +43,7 @@ Over the past few years, I have developed several projects, including:
 [![](https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white)](https://reactjs.org)
 
 ## Socials
-[![](https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDamienVesper)
+[![](https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LDVesper)
 [![](https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.alru.ga)
 [![](https://img.shields.io/badge/Twitch-%236441A4?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/LordDamienVesper)
 [![](https://img.shields.io/badge/stack%20overflow-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/10023170/damien-vesper)
