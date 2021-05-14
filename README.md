@@ -26,6 +26,11 @@
   <a href="https://twitter.com/LDVesper"><img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://twitch.tv/LordDamienVesper"><img src="https://img.shields.io/badge/Twitch-%236441A4?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://reddit.com/user/DamienVesper"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+
+  <br>
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
 </div>
 <br>
 
@@ -72,10 +77,3 @@ My current stack of developed projects includes:
  * [TheTypingMatch](https://thetypingmatch.com) - January 2021 - Present
  * [Torn.Space](https://github.com/TornDotSpace/Torn) - April 2021 - Present
 <br>
-
-
-## Stats
-![Git Statistics](https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-
-## Language Fluency
-![Git CommonLang](https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight)
