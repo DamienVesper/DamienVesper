@@ -42,12 +42,12 @@
 
 <!-- Framework Badges !-->
 <div align="center">
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/eslint%20-%2341229C.svg?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white">
-  <img src="https://img.shields.io/badge/%2Enet-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white">
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
+  <a href="https://eslint.org"><img src="https://img.shields.io/badge/eslint%20-%2341229C.svg?style=for-the-badge&logo=eslint&logoColor=white"></a>
+  <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white"></a>
+  <a href="https://mongodb.com"><img src="https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
+  <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
 </div>
 
 <!-- Libraries !-->
