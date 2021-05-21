@@ -63,17 +63,3 @@
   <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge"></a>
   <a href="https://threejs.org"><img src="https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white"></a>
 </div>
-
-
-<!-- Project Header !-->
-<h2 align="center">Projects</h2>
-
-<!-- Active Projects !-->
-My current stack of developed projects includes:
- * [Krew.io](https://github.com/DamienVesper/krew2.io) - September 2020 - March 2021
- * [Throwdown.TV](https://throwdown.tv) - January 2021 - Present
- * [LeCashBot](https://lecashbot.cf) - December 2019 - Present
- * [TheWallsProject](https://thewallsproject.org) - Janaury 2019 - Present
- * [TheTypingMatch](https://thetypingmatch.com) - January 2021 - Present
- * [Torn.Space](https://github.com/TornDotSpace/Torn) - April 2021 - Present
-<br>
