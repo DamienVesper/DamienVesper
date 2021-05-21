@@ -33,7 +33,7 @@
   <br>
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=000&text_color=143fb5&title_color=2c58d1">
 </div>
 <br>
 
