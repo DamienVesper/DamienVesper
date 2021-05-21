@@ -17,8 +17,7 @@
 
 <!-- Descriptor !-->
 <p align="center">
-  I am a fullstack Javascript developer and accessibility specialist that tinkers with Node.js projects as well as websites in my spare time, originally starting as a web developer focusing on responsive web design late 2015, and then later moving on to serverside content within Node.js late 2019.
-  Additionally, I am an enthusiastic <a href="https://nitrotype.com/racer/DamienVesper">typist</a>, tech nerd, and <a href="https://lichess.org/@/DamienVesper">chess geek</a>.
+  I am a fullstack Javascript developer developing browser-based games and websites, while specializing in accessibility issues. I have a background in system administration, learning how to program since 2015, and also like to play <a href="https://lichess.org/@/DamienVesper">chess</a> in my spare time.
 </p>
 <br>
 
@@ -38,11 +37,8 @@
 </div>
 <br>
 
-<!-- Solution Stack !-->
-<h2 align="center">Solution Stack</h2>
-
-<!-- Frameworks !-->
-<h3 align="center">Frameworks</h3>
+<!-- Technology Stack !-->
+<h2 align="center">Technology Stack</h2>
 
 <!-- Framework Badges !-->
 <div align="center">
@@ -54,9 +50,6 @@
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
 </div>
-
-<!-- Libraries !-->
-<h3 align="center">Libraries</h3>
 
 <!-- Library Badges !-->
 <div align="center">
