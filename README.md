@@ -8,7 +8,9 @@
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/rust-%23B7410E?style=for-the-badge&logo=rust&logoColor=white"></a>
   <img src="https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <a href="https://www.ruby-lang.org/"><img src="https://img.shields.io/badge/ruby-%23D51F06?style=for-the-badge&logo=ruby&logoColor=white"></a>
   <img src="https://img.shields.io/badge/swift-%23FA9200?style=for-the-badge&logo=swift&logoColor=white">
 </div>
 <br>
