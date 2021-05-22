@@ -45,20 +45,22 @@
   <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"></a>
   <a href="https://www.npmjs.com/package/ts-node"><img src="https://img.shields.io/badge/ts%20node%20-%233178C6.svg?style=for-the-badge&logo=ts-node&logoColor=white"></a>
   <a href="https://eslint.org"><img src="https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint"></a>
-  <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white"></a>
+  <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack"></a>
   <a href="https://mongodb.com"><img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
-  <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
-  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
+  <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?style=for-the-badge&logo=nginx"></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
+  <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%23512BD4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
+  <a href="https://unity.com"><img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white"></a>
 </div>
 
 <!-- Library Badges !-->
 <div align="center">
-  <a href="https://socket.io"><img src="https://img.shields.io/badge/socket.io%20-%23000000.svg?style=for-the-badge&logo=socket.io"></a>
-  <a href="https://expressjs.com"><img src="https://img.shields.io/badge/express%20-%23EDE7E6.svg?style=for-the-badge&logo=express&logoColor=black"></a>
-  <a href="https://jquery.org"><img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
+  <a href="https://expressjs.com"><img src="https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express"></a>
+  <a href="https://jquery.org"><img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery"></a>
+  <a href="https://socket.io"><img src="https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket-dot-io"></a>
   <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black"></a>
-  <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord%2Ejs-%232B61B3?style=for-the-badge"></a>
-  <a href="https://threejs.org"><img src="https://img.shields.io/badge/three%2Ejs-%23292E36?style=for-the-badge&logo=three%2Ejs&logoColor=white"></a>
+  <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord.js-%232B61B3?style=for-the-badge"></a>
+  <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=three-dot-js&logoColor=white"></a>
 </div>
