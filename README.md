@@ -42,10 +42,11 @@
 
 <!-- Framework Badges !-->
 <div align="center">
-  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="https://eslint.org"><img src="https://img.shields.io/badge/eslint%20-%2341229C.svg?style=for-the-badge&logo=eslint&logoColor=white"></a>
+  <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"></a>
+  <a href="https://www.npmjs.com/package/ts-node"><img src="https://img.shields.io/badge/ts%20node%20-%233178C6.svg?style=for-the-badge&logo=ts-node&logoColor=white"></a>
+  <a href="https://eslint.org"><img src="https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint"></a>
   <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack&logoColor=white"></a>
-  <a href="https://mongodb.com"><img src="https://img.shields.io/badge/mongodb-%234DB33D?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="https://mongodb.com"><img src="https://img.shields.io/badge/mongodb-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
   <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23207D23.svg?style=for-the-badge&logo=nginx&logoColor=white"></a>
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%2300758F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%239C4BC4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
