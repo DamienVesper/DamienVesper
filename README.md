@@ -51,7 +51,6 @@
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
   <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%23512BD4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
-  <a href="https://unity.com"><img src="https://img.shields.io/badge/unity-%23000000?style=for-the-badge&logo=unity&logoColor=white"></a>
 </div>
 
 <!-- Library Badges !-->
