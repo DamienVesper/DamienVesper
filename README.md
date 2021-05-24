@@ -5,8 +5,8 @@
 <div align="center">
   <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript"></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-%23FFD343?style=for-the-badge&logo=python&logoColor=black"></a>
   <a href="https://www.rust-lang.org"><img src="https://img.shields.io/badge/rust-%23B7410E?style=for-the-badge&logo=rust&logoColor=white"></a>
   <img src="https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white">
