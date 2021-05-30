@@ -50,7 +50,6 @@
   <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?style=for-the-badge&logo=nginx"></a>
   <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
-  <a href="https://dotnet.microsoft.com"><img src="https://img.shields.io/badge/%2Enet-%23512BD4?style=for-the-badge&logo=%2Enet&logoColor=white"></a>
 </div>
 
 <!-- Library Badges !-->
