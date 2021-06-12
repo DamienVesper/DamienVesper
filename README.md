@@ -17,7 +17,7 @@
 
 <!-- Descriptor !-->
 <p align="center">
-  I am a fullstack Javascript developer developing browser-based games and websites, while specializing in accessibility issues. I have a background in system administration, learning how to program since 2015, and also like to play <a href="https://lichess.org/@/DamienVesper">chess</a> in my spare time.
+  I am a fullstack Javascript developer developing browser-based games and websites, while specializing in accessibility issues. I have a background in system administration, have been programming since 2015, and also like to play <a href="https://lichess.org/@/DamienVesper">chess</a> in my spare time.
 </p>
 <br>
 
