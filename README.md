@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/c%2B%2B-%233696CF?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <a href="https://www.ruby-lang.org"><img src="https://img.shields.io/badge/ruby-%23D51F06?style=for-the-badge&logo=ruby&logoColor=white"></a>
     <img src="https://img.shields.io/badge/swift-%23FA9200?style=for-the-badge&logo=swift&logoColor=white">
+    <img src="https://img.shields.io/badge/lua-%2332199E?style=for-the-badge&logo=lua&logoColor=white">
 </div>
 <br>
 
