@@ -30,8 +30,10 @@
     <a href="https://twitch.tv/LordDamienVesper"><img src="https://img.shields.io/badge/Twitch-%236441A4?style=for-the-badge&logo=twitch&logoColor=white"></a>
     <a href="https://reddit.com/u/DamienVesper"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
     <a href="mailto:ldamienvesper@gmail.com"><img src="https://img.shields.io/badge/email-%23BB001B?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
     <br />
     <br />
+
     <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=207bb0&title_color=3873d9">
 </div>
 <br />
