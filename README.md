@@ -1,7 +1,7 @@
-<!-- Amazing Title !-->
+<!-- Amazing Title -->
 <h1 align="center">DamienVesper</h1>
 
-<!-- Language Stack !-->
+<!-- Language Stack -->
 <div align="center">
     <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript"></a>
     <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -15,13 +15,13 @@
 </div>
 <br>
 
-<!-- Descriptor !-->
+<!-- Descriptor -->
 <p align="center">
     I am a fullstack developer creating websites, maintaing clusters, and creating browser games on the side. I have a background in system administration, have been programming since 2015, and also like to play <a href="https://lichess.org/@/DamienVesper">chess</a> in my spare time.
 </p>
 <br />
 
-<!-- Social Badges !-->
+<!-- Social Badges -->
 <div align="center">
     <a href="https://twitter.com/LDVesper"><img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     <a href="https://discord.alru.xyz"><img src="https://img.shields.io/badge/discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
@@ -35,10 +35,10 @@
 </div>
 <br />
 
-<!-- Technology Stack !-->
+<!-- Technology Stack -->
 <h2 align="center">Technology Stack</h2>
 
-<!-- Framework Badges !-->
+<!-- Framework Badges -->
 <div align="center">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"></a>
     <a href="https://www.npmjs.com/package/ts-node"><img src="https://img.shields.io/badge/ts%20node%20-%233178C6.svg?style=for-the-badge&logo=ts-node&logoColor=white"></a>
@@ -50,13 +50,13 @@
     <a href="https://redis.io"><img src="https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
 </div>
 
-<!-- Library Badges !-->
+<!-- Library Badges -->
 <div align="center">
     <a href="https://expressjs.com"><img src="https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express"></a>
     <a href="https://jquery.org"><img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery"></a>
-    <a href="https://socket.io"><img src="https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socket-dot-io"></a>
+    <a href="https://socket.io"><img src="https://img.shields.io/badge/socket.io%20-%23010101.svg?style=for-the-badge&logo=socketdotio"></a>
     <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black"></a>
     <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord.js-%232B61B3?style=for-the-badge"></a>
-    <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=three-dot-js&logoColor=white"></a>
+    <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=threedotjs&logoColor=white"></a>
 </div>
