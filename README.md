@@ -20,6 +20,15 @@
 </p>
 <br />
 
+<!-- GitHub Stats -->
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=3768db&title_color=3768db">
+</div>
+
+---
+<!-- Technology Stack -->
+<h3 align="center">Socials</h3>
+
 <!-- Social Badges -->
 <div align="center">
     <a href="https://discord.alru.xyz"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -29,15 +38,7 @@
     <a href="https://reddit.com/u/DamienVesper"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
     <a href="mailto:ldamienvesper@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-<br />
-<br />
-
-<!-- GitHub Stats -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=3768db&title_color=3768db">
-</div>
-<br />
-
+---
 <!-- Technology Stack -->
 <h3 align="center">Technology Stack</h3>
 
@@ -73,7 +74,6 @@
 - [Alliance Reunited](https://github.com/Alliance-Reunited) | October 2019 - December 2021
 - [TheTypingMatch](https://github.com/TheTypingMatch) | December 2019 - July 2021
 - [Throwdown.TV](https://throwdown.tv) | January - July 2021
-
 ---
 <!-- Language Stats -->
 <div align="center">
