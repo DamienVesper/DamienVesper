@@ -64,25 +64,17 @@
     <a href="https://discord.js.org"><img src="https://img.shields.io/badge/discord.js-%232B61B3?style=for-the-badge"></a>
     <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=threedotjs&logoColor=white"></a>
 </div>
-<br />
-<br />
 
-<!-- Projects -->
-<div style="display: flex; justify-content: center; width: 100%">
-    <div>
-        <h2 align="center">Projects</h2>
-        <ul>
-            <li><a href="https://krew.io">Krew.io</a> | September 2020 - February 2021</li>
-            <li><a href="https://torn.space">Torn.Space</a> | Since April 2021</li>
-            <li><a href="https://thewallsproject.org">The Walls Project</a> | December 2019 - December 2020</li>
-            <li><a href="https://github.com/Alliance-Reunited">Alliance Reunited</a> | October 2019 - December 2021</li>
-            <li><a href="https://throwdown.tv">Throwdown.TV</a> | January - July 2021</li>
-        </ul>
-    </div>
-</div>
-<br />
-<br />
+---
+## Projects
+- [Krew.io](https://krew.io) | September 2020 - February 2021
+- [Torn.Space](https://torn.space) | Since April 2021
+- [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
+- [Alliance Reunited](https://github.com/Alliance-Reunited) | October 2019 - December 2021
+- [TheTypingMatch](https://github.com/TheTypingMatch) | December 2019 - July 2021
+- [Throwdown.TV](https://throwdown.tv) | January - July 2021
 
+---
 <!-- Language Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
