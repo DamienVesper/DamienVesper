@@ -26,9 +26,6 @@
 </div>
 
 ---
-<!-- Technology Stack -->
-<h3 align="center">Socials</h3>
-
 <!-- Social Badges -->
 <div align="center">
     <a href="https://discord.alru.xyz"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -40,9 +37,6 @@
 </div>
 
 ---
-<!-- Technology Stack -->
-<h3 align="center">Technology Stack</h3>
-
 <!-- Framework Badges -->
 <div align="center">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
