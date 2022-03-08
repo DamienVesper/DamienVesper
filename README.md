@@ -39,7 +39,7 @@
 <br />
 
 <!-- Technology Stack -->
-<h2 align="center">Technology Stack</h2>
+<h3 align="center">Technology Stack</h3>
 
 <!-- Framework Badges -->
 <div align="center">
@@ -66,7 +66,7 @@
 </div>
 
 ---
-## Projects
+### Projects
 - [Krew.io](https://krew.io) | September 2020 - February 2021
 - [Torn.Space](https://torn.space) | Since April 2021
 - [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
