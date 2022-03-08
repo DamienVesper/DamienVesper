@@ -38,6 +38,7 @@
     <a href="https://reddit.com/u/DamienVesper"><img src="https://img.shields.io/badge/reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
     <a href="mailto:ldamienvesper@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
 ---
 <!-- Technology Stack -->
 <h3 align="center">Technology Stack</h3>
