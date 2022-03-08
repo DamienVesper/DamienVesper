@@ -37,7 +37,6 @@
 </div>
 
 ---
-
 <!-- Framework Badges -->
 <div align="center">
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
