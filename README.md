@@ -28,7 +28,7 @@
 ---
 <!-- Social Badges -->
 <div align="center">
-    <a href="https://discord.alru.xyz"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.com/users/386940319666667521"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://twitter.com/LDVesper"><img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="https://twitch.tv/LordDamienVesper"><img src="https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
     <a href="https://www.youtube.com/channel/UCAT5Q1E7rxQusIUjJoUHVIQ"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
