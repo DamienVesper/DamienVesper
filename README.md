@@ -34,8 +34,9 @@
 </div>
 
 ---
-<!-- Framework Badges -->
+
 <div align="center">
+    <!-- Framework Badges -->
     <a href="https://nodejs.org"><img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
     <a href="https://eslint.org"><img src="https://img.shields.io/badge/eslint%20-%234B32C3.svg?style=for-the-badge&logo=eslint"></a>
     <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/webpack%20-%231C78C0.svg?style=for-the-badge&logo=webpack"></a>
@@ -46,10 +47,7 @@
     <a href="https://nginx.com"><img src="https://img.shields.io/badge/nginx%20-%23009639.svg?style=for-the-badge&logo=nginx"></a>
     <a href="https://apache.org"><img src="https://img.shields.io/badge/apache%20-%23D22128.svg?style=for-the-badge&logo=apache"></a>
     <a href="https://docker.com"><img src="https://img.shields.io/badge/docker%20-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
-</div>
-
-<!-- Library Badges -->
-<div align="center">
+    <!-- Library Badges -->
     <a href="https://expressjs.com"><img src="https://img.shields.io/badge/express%20-%23000000.svg?style=for-the-badge&logo=express"></a>
     <a href="https://passportjs.org"><img src="https://img.shields.io/badge/passport-%2334E27A?style=for-the-badge&logo=passport&logoColor=white"></a>
     <a href="https://jquery.org"><img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery"></a>
