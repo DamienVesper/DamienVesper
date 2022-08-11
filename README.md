@@ -63,12 +63,13 @@
 
 ---
 ### Projects
-- [Krew.io](https://krew.io) | Since September 2020
-- [Torn.Space](https://torn.space) | Since April 2021
-- [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
-- [Alliance Reunited](https://github.com/Alliance-Reunited) | October 2019 - December 2021
-- [TheTypingMatch](https://github.com/TheTypingMatch) | December 2019 - July 2021
-- [Throwdown.TV](https://throwdown.tv) | January - July 2021
+ - [Krew.io](https://krew.io) | Since September 2020
+ - [Torn.Space](https://torn.space) | Since April 2021
+ - [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
+ - [Alliance Reunited](https://github.com/Alliance-Reunited) | October 2019 - December 2021
+ - [Throwdown.TV](https://throwdown.tv) | January - July 2021
+ - [TheTypingMatch](https://github.com/TheTypingMatch) | December 2019 - February 2021
+ - [LeCashBot](https://github.com/TheTypingMatch/lecashbot) | December 2019 - July 2021
 ---
 <!-- Language Stats -->
 <div align="center">
