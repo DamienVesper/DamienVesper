@@ -24,16 +24,15 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=DamienVesper&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&text_color=3768db&title_color=3768db">
 </div>
+<hr />
 
----
 <!-- Social Badges -->
 <div align="center">
     <a href="https://discord.com/users/386940319666667521"><img src="https://img.shields.io/badge/discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://twitter.com/LDVesper"><img src="https://img.shields.io/badge/twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
     <a href="mailto:ldamienvesper@gmail.com"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
----
+<hr />
 
 <div align="center">
     <!-- Framework Badges -->
@@ -60,8 +59,8 @@
     <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=threedotjs&logoColor=white"></a>
     <a href="https://electronjs.org"><img src="https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white"></a>
 </div>
+<hr />
 
----
 ### Projects
  - [Krew.io](https://krew.io) | Since September 2020
  - [Torn.Space](https://torn.space) | Since April 2021
@@ -71,6 +70,7 @@
  - [TheTypingMatch](https://github.com/TheTypingMatch) | December 2019 - February 2021
  - [LeCashBot](https://github.com/TheTypingMatch/lecashbot) | December 2019 - July 2021
 ---
+
 <!-- Language Stats -->
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
