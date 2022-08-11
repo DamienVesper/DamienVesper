@@ -55,6 +55,7 @@
     <a href="https://tailwindcss.com"><img src="https://img.shields.io/badge/tailwind-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
     <a href="https://getbootstrap.com"><img src="https://img.shields.io/badge/bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="https://reactjs.org"><img src="https://img.shields.io/badge/react-%2361DBFB?style=for-the-badge&logo=react&logoColor=black"></a>
+    <a href="https://nextjs.org"><img src="https://img.shields.io/badge/next.js-%23000000?style=for-the-badge&logo=nextdotjs"></a>
     <a href="https://postcss.org"><img src="https://img.shields.io/badge/postcss-%23DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"></a>
     <a href="https://threejs.org"><img src="https://img.shields.io/badge/three.js-%23292E36?style=for-the-badge&logo=threedotjs&logoColor=white"></a>
     <a href="https://electronjs.org"><img src="https://img.shields.io/badge/electron-%2347848F?style=for-the-badge&logo=electron&logoColor=white"></a>
