@@ -62,9 +62,9 @@
 <hr />
 
 ### Projects
- - [Krew.io](https://krew.io) | Since September 2020
+ - [Krew.io](https://krew.io) | September 2020 - October 2022
  - [Torn.Space](https://torn.space) | Since April 2021
- - [Alliance Reunited](https://github.com/Alliance-Reunited) | October 2019 - December 2021
+ - [Banabyte](https://github.com/Banabyte) | October 2019 - December 2021
  - [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
  - [Throwdown.TV](https://throwdown.tv) | January - July 2021
  - [TheTypingMatch](https://github.com/TheTypingMatch) | December 2019 - February 2021
