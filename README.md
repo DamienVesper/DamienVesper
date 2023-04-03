@@ -63,7 +63,7 @@
 
 ### Projects
  - [Banabyte](https://github.com/Banabyte) | Since October 2019
- - [Torn.Space](https://torn.space) | Since April 2021
+ - [Torn.Space](https://torn.space) | April 2021 - April 2022
  - [Krew.io](https://krew.io) | September 2020 - October 2022
  - [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
  - [Throwdown.TV](https://throwdown.tv) | January - July 2021
