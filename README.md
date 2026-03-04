@@ -57,10 +57,9 @@
  - [The Walls Project](https://thewallsproject.org) | December 2019 - December 2020
  - [LeCashBot](https://github.com/TheTypingMatch/lecashbot) | December 2019 - July 2021
  - [Throwdown.TV](https://throwdown.tv) | January - July 2021
----
 
 <!-- Language Stats -->
 <!-- <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienVesper&hide_border=true&layout=compact&theme=tokyonight&bg_color=00000000">
-</div> -->
-<br>
+</div>
+<br> -->
